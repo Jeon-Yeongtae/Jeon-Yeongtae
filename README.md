@@ -2,6 +2,8 @@
 
 ## 안녕하세요.
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={Jeon-Yeongtae})](https://solved.ac/{Jeon-Yeongtae})
+
 <!--
 **Jeon-Yeongtae/Jeon-Yeongtae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
